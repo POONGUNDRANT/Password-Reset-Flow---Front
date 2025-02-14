@@ -1,0 +1,7 @@
+Back-end:
+Render url:https:https://pwd-resetback-end.onrender.com
+Github Repository:https://github.com/Dhanam-Bheeshma/pwd-resetBack-end.git
+
+Front-end:
+Github Repository:https://github.com/Dhanam-Bheeshma/pwd-resetFront-end.git
+netlify url:https://pwd-reset-frontend.netlify.app/
