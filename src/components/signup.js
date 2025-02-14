@@ -15,7 +15,7 @@ function Signup() {
       return;
     }
     try {
-      await axios.post(`http://localhost:5000/signup`, { email, password });
+      await axios.post(`${process.env.REACT_APP_API_URL}/signup`, { email, password });
       alert('Signup successful');
     } catch (error) {
       alert('Error signing up');
